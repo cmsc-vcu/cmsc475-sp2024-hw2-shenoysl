@@ -1,6 +1,8 @@
-# CMSC 475 - Spring 2024 - Homework 2
 
-Homework 2 is about building a dynamic calling card.  You're provided with this scaffold repository. 
+# Name: Satya Shenoy
+# Due Date: 1/28/24
+# Assignment: Homework 2
+# Course: CMSC475
 
 Clean up this README.md.  [Make it yours!](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
 
