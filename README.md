@@ -1,8 +1,12 @@
 
-# Name: Satya Shenoy
-# Due Date: 1/28/24
-# Assignment: Homework 2
-# Course: CMSC475
+# Name
+Satya Shenoy
+# Due Date 
+1/28/24
+# Assignment 
+Homework 2
+# Course 
+CMSC475
 
 Clean up this README.md.  [Make it yours!](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
 
