@@ -1,6 +1,6 @@
 ---
 title: Homework Assignment 2
-author: Drop your name here
+author: Satya Shenoy
 date: last-modified
 format:
   html:
@@ -9,16 +9,21 @@ format:
     embed-resources: true
 ---
 
-(provide brief project description here.  If you were to share this HTML with someone else, what would you want them to read first?)
+This is homework assignment #2 for CMSC 475, and for this assignment I had to create storyboards which showed a story of my life.
+
+There are 5 frames below, each of them were created in Figma, and they all have a common theme, they are about me.
+
+The first panel is a resume-like contact card which has my information (name, email, major, graduation date) and has an old fashioned flair.
+
+The next 3 panels are my depictions of theme words that I chose from a bank, I chose the words passion, curiosity, and sustainability as I felt these 3 connected with me the most.
+
+The final panel is a way to tie all of the previous panels together and brings a concise and cohesive conclusion to my story that I told via the storyboard frames. 
+
+All of the frames will have dynamic properties, which I have detailed in each frame's description as well as a write up on why I chose the word and the design choices for the frame.
+
 
 * [LINK to GITHUB](https://github.com/cmsc-vcu/cmsc475-sp2024-hw2-template)
-* [LINK to FIGMA SHARE](https://www.figma.com/file/aSqekRNJn6DM1VMivvoibQ/Storyboard-Creator---Public-Demo-(Community)?type=design&node-id=111%3A2028&mode=design&t=PGNCnlkYRkizaQuu-1)
-
-(Be sure to freshen the links above with YOUR github and figma document shares!)
-
-(Delete the comments and notes I include within parenthesis.  Make the document your own!)
-
-(keep this file simple.  Create storyboard panels in Figma, save them to PNG into the assets folder and include them here.)
+* [LINK to FIGMA SHARE](https://www.figma.com/file/7bDVoI0YU7Byz1FxZsyT1J/CMSC475-HW2?type=design&node-id=0%3A1&mode=design&t=OnXoaTuByRw9BWs4-1)
 
 [Here is a to the assignment instructions.](https://virginiacommonwealth.instructure.com/courses/93957/assignments/853465?module_item_id=3241439)
 
@@ -31,69 +36,44 @@ The first five panels are horizontal.  The last is vertical.
 
 ## Board 1 - contact information
 
-![Horizontal example](assets/hw2-calling-card-1.png)
+![](assets/Shenoy-HW2-Frame1.png)
 
-What is dynamic on this panel? what is special about this panel? Why does the design mean?
+The dynamic effect I am planning on for this panel is for the stars to glimmer or move around, to enhance the glamour of the card. The vignettes I added around my name and on the borders was chosen becuase I believe it was a beautiful way to show the old-timey flair that vintage contact cards had. 
 
-## Board 2 - Adventure
+## Board 2 - Passion
 
-My first theme is *adventure*.  Below is my storyboard.
-
-:::: {.columns}
-::: {.column width=65%}
-![](assets/hw2-adventure.png)
-:::
-::: {.column width=5%}
-&nbsp;
-:::
-::: {.column width=30%}
-![](assets/hw2-compass.png)
-:::
-::::
-
-I selected *adventure* because ...
-
-What is dynamic on this panel? what is special about this panel? Why does the design mean?
-
-## Board 3 - Passion
-
+My first theme is *passion*.  Below is my storyboard.
 This theme is *passion*.
 
-![Horizontal example](assets/hw2-calling-card-2.jpg)
+![](assets/Shenoy-HW2-Frame2.png)
 
-I selected *passion* because ...
+I selected *passion* because I believe it is one of the most important emotions that we exhibit, it can be positive or negative but in my case I use passion as my driving force to move further in life and gain success and hapiness in whichever way I can. I would not still be in Computer Science now as a Senior if I wasn't passionate about this subject, my favorite athletes that I look up to would always mention how they can go through any ups and downs but still stay resilient and perservere because they have true passion for their sport and want to succeed no matter what. I envision passion as a fire burning inside us, as it is an incredibly intense emotion that we feel, it is a fire that lights the way towards success, and this is why I am using this fire as the design element for my storyboard. The dynamic element will be the flames from the fire as they will be moving around and going up, symbolizing an ascension to something greater due to being passionate about something. 
 
-## Board 4 - Curiosity
+## Board 3 - Curiosity
 
 This theme is *curiosity*.
 
-```{=html}
-<center>
-<iframe src="https://editor.p5js.org/jleonard99/full/o2GbGov1J"
-width="520px"
-height="400px"
-data-external="1"
-></iframe>
-</center>
-```
+![](assets/Shenoy-HW2-Frame3.png)
+
+I selected *curiosity* because I feel it is my driving force to problem solve, come up with new ideas, understand what is happening around me. I have always been curious when it comes to any aspect of my life, schoolwise I would always be asking questions to the teachers as I felt being curious and proposing questions was the best and most effective method in how I can learn a topic or subject. My curiosity also lends me to be a very good problem solver as I ask myself many questions on how I can tackle certain problems and build off that. This storyboard depicts curiosity for me because I am always having questions to ask internally to myself or externally to someone else so that's why there are various question marks going around the person's head. Additionally, I wanted to show how it feels like a lightbulb flicking on when I eventually am able to resolve the situation after prying or digging deeper, so that is why the person's head is basically just a lightbulb. The dynamic elements for this storyboard will be the question marks spinning around and will be flickering from white to yellow, as well as the lightbulb flickering from white to yellow. 
 
 
-I selected *curiosity* because ...
+## Board 4 - Sustainability
 
-## Board 5 - Empowerment
+This theme is *sustainability*.
 
-This theme is *empowerment*.
+![](assets/Shenoy-HW2-Frame4.png)
 
-![Horizontal example](assets/hw2-calling-card-2.jpg)
+I selected *sustainability* because ever since childhood, I have always loved the outdoors, going out on serene trips to Shenandoah, going on hiking trails, and just spending time with my family and friends outdoors has been something I have always cherished. Sustainability to me, means taking care of our wildlife and our environment as much as we can, never taking them for granted, and realizing the true beauty of the outdoors. My storyboard depicts a simple nature landscape, it is actually pretty similar to a pond I would visit a lot with my family, anytime we drove by, I would make sure to to take in it's beauty. The dynamic elements I will be incorporating into this frame is the wind blowing, causing the trees to sway from one side to the other, as well as the fish swimming in the pond. 
 
-I selected *empowerment* because ...
+## Board 5 - Closing panel
 
-## Board 6 - Closing panel
+This is my concluding frame.
 
-The closing panel can more modern, in vertical format if you desire.  YES, if you choose, you can fit the last panel to your phone screen size.
+![](assets/Shenoy-HW2-Frame5.png)
 
-![Vertical example](assets/hw2-contact-card-1.png)
+I went with this design as my *closing panel* because I felt like it was a really nice cohesive way of tying all of the other themes and design elements from my middle panels into one. The environment and nature landscape depicts my love of nature and the outdoors and the theme of sustainiabilty, the question marks above the person's head depicts curiosity as I would be wondering where I can go next, where I can explore next when day comes. Another element I added was the campfire which connects with my theme of passion, the fire burns inside me to continue to explore and I use it as something to push me forward. This panel's dynamic elements will be the stars twinkling, the fire will have flames burning off of it, the question marks will be shaking around, and the trees will be swaying, tying everything together. 
 
 # Reflection
 
-(How did the assignment go?  What would you do different?)
+This assignment went pretty well for me, I really enjoyed working with Figma as I felt it was really easy to use as this was my first time using the software, and there were so many resources and tools at my disposal to be as creative as I could with each frame. I really enjoyed the creative and artistic challenge that this assignment posed as it was something I have never had to do so far in college, brought me back to my days in high school art class and it was a ton of fun. In all honesty, it was a little difficult initially to think of a way to depict the theme words and trying to figure out how I can have them connect back to me, but once it started clicking, I started to enjoy it a lot and I am really happy with how everything turned out. I think if I started this assignment just a little bit earlier and got my hands on practicing with figma a bit more before diving into this, I could've made my frames look even better, I was learning as I went throughout this assignment but it was in a good way. Overall, I really liked this assignment and I cannot wait to go deeper and actually code these frames out!
