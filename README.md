@@ -1,24 +1,16 @@
 
-# Name
-Satya Shenoy
-# Due Date 
-1/28/24
-# Assignment 
-Homework 2
-# Course 
-CMSC475
+# Satya's CMSC475 Homework #2
 
-Clean up this README.md.  [Make it yours!](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+## Assignment & Repo Details
 
-## Tasks
+1. This assignment was to create storyboard frames about me using a software called Figma
 
-1. See the tasks layed out in the [homework 2 description.](https://virginiacommonwealth.instructure.com/courses/93957/assignments/853465?module_item_id=3241439)
+3. The beginning frame has my personal information, the middle 3 frames depict theme words I connected with, and the final panel brings it all together. 
 
-2. Save the images and clean up the *report.qmd* file. Make it yours! (Points will be deducted if I find too much of my original text in the file!!!)
+4. Inside the report folder, you will find the report.qmd and report.html files which show all of my frames as pngs, with each frame having a description of why I chose the certain theme word, the design choices of the frame, as well as the dynamic elements that I am planning on adding when these frames become dynamic after they're coded up.
 
-3. Update the README.md.  [Make it yours!](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+5. The report also has links to the actual Figma file and a link to this github repo.
 
-4. Commit your changes, push to github.
+6. The assets folder also holds png files to each of the Figma frames. 
 
-5. Upload the html file to canvas. Upload the GITHUB repo to Gradescope.
 
